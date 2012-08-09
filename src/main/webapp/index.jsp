@@ -5,7 +5,11 @@ Globevis Home
 </title>
 </head>
 <body>
-<h2>Administer Globevis Database </h2>
-<h3><a href="Admin/globevis/Main">Admin</a></h3>
+<h2>
+Globevis Home 
+</h2>
+<h3><a href="globe/">Global Population</a></h3>
+<h3><a href="globe-search/">Search Language</a></h3>
+<h3><a href="WWARN/">WWARN</a></h3>
 </body>
 </html>
